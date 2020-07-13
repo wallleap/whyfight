@@ -7,3 +7,8 @@
 webp——https://cdn.jsdelivr.net/gh/wallleap/whyfight@master/fight.webm
 
 mp4——https://cdn.jsdelivr.net/gh/wallleap/whyfight@master/fight.mp4
+
+说明：
+
+- 原画质挺好的，但是还是挺大的，引用不了
+- 需要原画质的可以从B站下载，视频来源在上方
